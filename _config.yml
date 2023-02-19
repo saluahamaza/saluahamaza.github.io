@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prof"
+title                    : "Prof. Salua Hamaza"
 title_separator          : "-"
-name                     : &name "Salua Hamza"
+name                     : &name "Salua Hamaza"
 description              : &description "Assistant Professor at TUDelft"
 url                      : https://saluahamaza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,13 +85,13 @@ author:
   bio              : "Assistant Professor at Delft University of Technology"
   location         : # "Delft, NL"
   email            : "S.Hamaza@tudelft.nl"
-  employer         :
-  linkedin         : "https://www.linkedin.com/in/salua-hamaza/"
+  employer         : "https://www.tudelft.nl/staff/s.hamaza"
+  linkedin         : "salua-hamaza"
   googlescholar    : "https://0-scholar-google-com.brum.beds.ac.uk/citations?user=O7snlrcAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Salua-Hamaza"
-  pubmed           : "https://www.tudelft.nl/staff/s.hamaza"
+  pubmed           : 
   orcid            : "https://orcid.org/0000-0001-5261-2680"
-  uri              :
+  uri              : "https://www.tudelft.nl/staff/s.hamaza"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@microuav"
   wikipedia        :
 
 
