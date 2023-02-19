@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -83,11 +83,11 @@ author:
   name             : "Salua Hamaza"
   avatar           : "profile.png"
   bio              : "Salua Hamaza is Assistant Professor at Delft University of Technology. Her research focus is mainly in two areas: aerial physical interaction and embodied intelligence for aerial robots. Her interests cover design, mechatronics, variable compliance and interaction control on floating robots (aerial & space)."
-  location         : "Delft, NL"
+  location         : "[Delft, NL](https://www.google.com/search?q=delft&source=lnms&tbm=isch)"
   employer         :
   pubmed           : "https://www.tudelft.nl/staff/s.hamaza"
   googlescholar    : "https://0-scholar-google-com.brum.beds.ac.uk/citations?user=O7snlrcAAAAJ&hl=en"
-  email            :
+  email            : "mailto:S.Hamaza@tudelft.nl"
   researchgate     : "https://www.researchgate.net/profile/Salua-Hamaza"
   uri              :
   bitbucket        :
