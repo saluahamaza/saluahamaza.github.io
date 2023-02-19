@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+Salua Hamaza is Assistant Professor at the Micro Air Vehicles Lab (MAVLab) at the faculty of Aerospace Engineering, TU Delft.
+
+Her research focus is mainly in two areas: aerial physical interaction and embodied intelligence for aerial robots. Her interests cover design, mechatronics, variable compliance and interaction control on floating robots (aerial & space).
+
 Biography
 ======
-Salua Hamaza is Assistant Professor at the Micro Air Vehicles Lab (MAVLab) at the faculty of Aerospace Engineering, TU Delft. She received her PhD in Robotics and Autonomous Systems at the University of Bristol (UK) in 2019. Previously to the PhD in 2015, she was Research Engineer at the Robotics and Mechatronics Group (RAM) at University of Twente (NL), supervised by Prof. S. Stramigioli. During 2018 she was visiting PhD student at the  Group of Robotics, Vision and Control (GRVC) at the University of  Seville, supervised by Prof. A. Ollero. In 2019 she joined Imperial College London as PostDoc in the Aerial Robotics Laboratory, supervised by Prof. M. Kovac. To this day, she continues collaborating with the group at Imperial College as Guest Researcher.
+She received her PhD in Robotics and Autonomous Systems at the University of Bristol (UK) in 2019. Previously to the PhD in 2015, she was Research Engineer at the Robotics and Mechatronics Group (RAM) at University of Twente (NL), supervised by Prof. S. Stramigioli. During 2018 she was visiting PhD student at the  Group of Robotics, Vision and Control (GRVC) at the University of  Seville, supervised by Prof. A. Ollero. In 2019 she joined Imperial College London as PostDoc in the Aerial Robotics Laboratory, supervised by Prof. M. Kovac. To this day, she continues collaborating with the group at Imperial College as Guest Researcher.
 
 Salua was awarded the IEEE Best RA-L Paper award at ICRA 2017. She ranked finalist in the 2019 edition of  Best UK PhD in Robotics Award, 2019 issued by Queen Mary University London, next to candidates from top UK Universities.  
 Check out my publications on: 
 
-  [Scholar](https://scholar.google.com/citations?user=O7snlrcAAAAJ&hl=en)
-  [Research Gate](https://www.researchgate.net/profile/Salua-Hamaza/publications)
+- [Scholar](https://scholar.google.com/citations?user=O7snlrcAAAAJ&hl=en)
+- [Research Gate](https://www.researchgate.net/profile/Salua-Hamaza/publications)
   
 Expertise
 ======
