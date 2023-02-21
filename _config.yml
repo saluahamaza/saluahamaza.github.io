@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prof. Salua Hamaza"
+title                    : "Salua's Home"
 title_separator          : "-"
-name                     : &name "Salua Hamaza"
+name                     : &name "Prof. Salua Hamaza"
 description              : &description "Assistant Professor at TUDelft"
 url                      : https://saluahamaza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,9 +83,9 @@ author:
   name             : "Salua Hamaza"
   avatar           : "profile.png"
   bio              : "Assistant Professor at Delft University of Technology"
-  location         : # "Delft, NL"
+  location         : "Delft, NL"
   email            : "S.Hamaza@tudelft.nl"
-  employer         : "https://www.tudelft.nl/staff/s.hamaza"
+  employer         : # "https://www.tudelft.nl/staff/s.hamaza"
   linkedin         : "salua-hamaza"
   googlescholar    : "https://0-scholar-google-com.brum.beds.ac.uk/citations?user=O7snlrcAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Salua-Hamaza"
