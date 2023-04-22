@@ -6,5 +6,5 @@ excerpt: 'This paper presents compliant aerial manipulators and their use for ae
 date: 2016-01-01
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/7439830'
-citation: 'Bartelds, T., Capra, A., Hamaza, S., Stramigioli, S., & Fumagalli, M. (2016). "Compliant aerial manipulators: 
+citation: 'Bartelds, T., Capra, A., Hamaza, S., Stramigioli, S., & Fumagalli, M. (2016). "Compliant aerial manipulators: '
 ---

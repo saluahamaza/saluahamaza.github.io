@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Salua's Home"
+title                    : "Salua Hamaza"
 title_separator          : "-"
 name                     : &name "Prof. Salua Hamaza"
 description              : &description "Assistant Professor at TUDelft"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Salua Hamaza"
+  name             : "Assistant Professor"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at Delft University of Technology"
+  bio              : "Delft University of Technology"
   location         : "Delft, NL"
   email            : "S.Hamaza@tudelft.nl"
   employer         : # "https://www.tudelft.nl/staff/s.hamaza"

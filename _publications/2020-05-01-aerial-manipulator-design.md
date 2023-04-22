@@ -6,5 +6,5 @@ excerpt: 'This paper presents the design, modeling, and control of an aerial man
 date: 2020-05-01
 venue: 'Journal of Field Robotics'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21935'
-citation: 'Hamaza, S., Georgilas, I., Heredia, G., Ollero, A., & Richardson, T. (2020). "Design, modeling, and control of an 
+citation: 'Hamaza, S., Georgilas, I., Heredia, G., Ollero, A., & Richardson, T. (2020). "Design, modeling, and control of an'
 ---

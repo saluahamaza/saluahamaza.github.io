@@ -6,5 +6,5 @@ excerpt: 'This paper presents a method for sensor installation and retrieval usi
 date: 2019-03-01
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/8701733'
-citation: 'Hamaza, S., Georgilas, I., Fernandez, M. J., Sanchez-Cuevas, P. J., &... (2019). "Sensor Installation and 
+citation: 'Hamaza, S., Georgilas, I., Fernandez, M. J., Sanchez-Cuevas, P. J., &... (2019). "Sensor Installation and '
 ---
