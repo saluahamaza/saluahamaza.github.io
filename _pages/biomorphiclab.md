@@ -1,35 +1,29 @@
 ---
+title: "BioMorphic Intelligence Lab"
 permalink: /biomorphiclab/
-title: "BioMorphicLab"
-excerpt: "BioMorphicLab"
 author_profile: true
-redirect_from: 
-  - /biomorphiclab/
-  - /about.html
 ---
 
-Salua Hamaza is Assistant Professor at the Micro Air Vehicles Lab (MAVLab) at the faculty of Aerospace Engineering, TU Delft.
+{% include base_path %}
 
-Her research focus is mainly in two areas: aerial physical interaction and embodied intelligence for aerial robots. Her interests cover design, mechatronics, variable compliance and interaction control on floating robots (aerial & space).
+## Biologically inspired solutions for aerial robotics
 
-Biography
-======
-She received her PhD in Robotics and Autonomous Systems at the University of Bristol (UK) in 2019. Previously to the PhD in 2015, she was Research Engineer at the Robotics and Mechatronics Group (RAM) at University of Twente (NL), supervised by Prof. S. Stramigioli. During 2018 she was visiting PhD student at the  Group of Robotics, Vision and Control (GRVC) at the University of  Seville, supervised by Prof. A. Ollero. In 2019 she joined Imperial College London as PostDoc in the Aerial Robotics Laboratory, supervised by Prof. M. Kovac. To this day, she continues collaborating with the group at Imperial College as Guest Researcher.
+Aerial robots are now ubiquitous. Thanks to their nimbleness, manoeuvrability, and affordability, drones are used in many sectors to monitor, map, and inspect. As a next step, flying robots offer more when interacting with their surroundings via anthropomorphic-like manipulation capabilities. Some overarching challenges remain for this new class of aerial robots, and solutions inspired by biology can be implemented across three key areas for robot performance: sensing their environment, processing this information, and acting upon the results.
 
-Salua was awarded the IEEE Best RA-L Paper award at ICRA 2017. She ranked finalist in the 2019 edition of  Best UK PhD in Robotics Award, 2019 issued by Queen Mary University London, next to candidates from top UK Universities.  
-Check out my publications on: 
+#### SENSE
 
-- [Scholar](https://scholar.google.com/citations?user=O7snlrcAAAAJ&hl=en)
-- [Research Gate](https://www.researchgate.net/profile/Salua-Hamaza/publications)
-  
-Expertise
-======
-Research interests are in two main areas: aerial physical interaction and embodied intelligence in aerial robots. Salua is interested in the design and morphology of aerial robots, and their implications in flight performance and stability during airborne interaction with the environment. Types of aerial interaction include: manipulating objects, contact inspection, perching and crawling with aerial robots.       
-Recurring themes are mechanical compliance, design of actuators, compliant interaction control, kinematics and dynamics of multi-DoFs mechanisms for aerial robots, adaptive morphology, soft manipulation.
+Bio-inspired perception (e.g., visual or tactile feedback) can provide the drone with information on its environment, mimicking animals’ sensory feedback. Using retina-like event cameras, drones can avoid obstacles and detect objects at a fraction of the power and latency of conventional hardware and algorithms. Enhancing tactile feedback can also prompt different behaviors in response to different force stimuli.
 
-Awards
-------
-- Best Paper Award, finalist - IEEE International Conference on Intelligent Robots and Systems (IROS) 2020 Workshop on Perception, Planning and Mobility in Forestry Robotics
-- Best PhD in Robotics in the UK Award 2019, 3rd prize
-- Best Paper Award in IEEE Robotics and Automation Letters, awarded at IEEE International Conference on Robotics and Automation (ICRA) 2017
-- Patent: Manipulation Control System (inventor). Filed by the University of Bristol (UK) 2017.
+#### THINK
+
+Bio-inspired, brain-like models from Neuromorphic AI can help lower the computational load and speed up sensory data processing for navigation. This boosts real-time control and autonomy. Compliance embedded in the control of the robot also favors safe and robust interaction with unknown environments and targets.
+
+#### ACT
+
+Bio-inspired design and materials make the drone's body fit for interaction with unknown objects and enable a safe response to external disturbances. Robot morphology can be inspired by flying animals’ shape, configuration, and materials. Together, these features create embodied intelligence and can partially offset the behavior complexity handled by the brain.
+
+The BioMorphic Intelligence Lab aims to tackle robustness and efficiency challenges for interacting drones, using biologically inspired solutions for both the 'body' and the 'brain' and applying embodied intelligence and neuromorphic AI techniques.
+
+The BioMorphic Intelligence Lab is part of the [TU Delft AI Labs programme](https://www.tudelft.nl/en/ai/tu-delft-ai-labs).
+
+![](https://d2k0ddhflgrk1i.cloudfront.net/Websections/AIDU/lab-images/BioMorphic%20Intelligence%20Lab/images/bo-inspired-solution-for-aerial-robotics.jpg)
