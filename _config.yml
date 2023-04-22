@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Salua Hamaza's Home"
+title                    : "Salua Hamaza Homepage"
 title_separator          : "-"
 name                     : &name "Prof. Salua Hamaza"
 description              : &description "Assistant Professor Salua Hamaza's website from TUDelft"
