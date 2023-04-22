@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Salua Hamaza"
+title                    : "Salua Hamaza's Home"
 title_separator          : "-"
 name                     : &name "Prof. Salua Hamaza"
-description              : &description "Assistant Professor at TUDelft"
-url                      : https://saluahamaza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Assistant Professor Salua Hamaza's website from TUDelft"
+url                      : https://www.tudelft.nl/staff/s.hamaza?cHash=de0a5f01872d7e75ad0835943ae9af45 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "saluahamaza/saluahamaza.github.io"
+repository               : https://github.com/saluagit
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "saluahamaza"
+  github           : "saluagit"
   google_plus      :
   keybase          :
   instagram        :
