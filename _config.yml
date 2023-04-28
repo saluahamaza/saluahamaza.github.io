@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Salua Hamaza Homepage"
+title                    : "Salua Hamaza"
 title_separator          : "-"
-name                     : &name "Prof. Salua Hamaza"
-description              : &description "Assistant Professor Salua Hamaza's website from TUDelft"
+name                     : &name "Salua Hamaza"
+description              : &description "Assistant Professor Salua Hamaza TUDelft"
 url                      : https://www.tudelft.nl/staff/s.hamaza?cHash=de0a5f01872d7e75ad0835943ae9af45 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/saluagit
+repository               : "saluahamaza/saluahamaza.github.io" # GitHub Repository
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Assistant Professor"
+  name             : "Salua Hamaza"
   avatar           : "profile.png"
-  bio              : "Delft University of Technology"
+  bio              : "Assistant Professor, TUDelft"
   location         : "Delft, NL"
   email            : "S.Hamaza@tudelft.nl"
   employer         : # "https://www.tudelft.nl/staff/s.hamaza"
   linkedin         : "salua-hamaza"
-  googlescholar    : "https://0-scholar-google-com.brum.beds.ac.uk/citations?user=O7snlrcAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&hl=en&user=O7snlrcAAAAJ"
   researchgate     : "https://www.researchgate.net/profile/Salua-Hamaza"
   pubmed           : 
   orcid            : "https://orcid.org/0000-0001-5261-2680"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "saluagit"
+  github           : "BioMorphic-Intelligence-Lab"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@microuav"
+  youtube          : "microuav"
   wikipedia        :
 
 

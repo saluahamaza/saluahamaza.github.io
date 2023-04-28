@@ -6,9 +6,6 @@ main:
   - title: "BioMorphicLab"
     url: /biomorphiclab/
 
-  - title: "MavLab"
-    url: /mavlab/
-
   - title: "Teaching"
     url: /teaching/    
     
