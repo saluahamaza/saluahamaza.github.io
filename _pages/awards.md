@@ -1,6 +1,7 @@
 ---
 title: "Awards"
 permalink: /awards/
+toc: false
 ---
 
 ## BEST PAPER AWARD
@@ -30,3 +31,22 @@ Jun 2017 - [Hamaza, S.](https://research.tudelft.nl/en/persons/s-hamaza) (Recipi
 
 - Granting Organisations: IEEE Robotics and Automation Society (IEEE RAS)
 - Degree of recognition: International
+
+<!-- 
+## Awards and Honors
+
+-   **Mark Weiser Best Paper Award**, IEEE PerCom 2023.
+-   **Facebook Research Award**, 2021. [\[Link\]](https://research.fb.com/blog/2021/09/announcing-the-winners-of-the-2021-towards-trustworthy-products-in-ar-vr-and-smart-devices-request-for-proposals/)
+-   **Best Research Artifact Award**, ACM/IEEE IPSN 2020. [\[Link\]](https://ipsn.acm.org/2020/program.html?v=1)
+-   **Nomination for Malcolm Chaikin Prize for Research Excellence in Engineering**, Falculty of Engineering, UNSW, 2019. \[Single nomination from the School of Computer Science & Engineering\]
+-   **Best Demo Runner-up Award**, ACM/IEEE IoTDI 2018. [\[Link\]](https://conferences.computer.org/iotDI/prev/2018/awd.html)
+-   **IEEE TCPP Student Travel Award**, IEEE PerCom 2018. [\[Link\]](http://percom.org/Previous/ST2018/node/22.html)
+-   **National Research & Development Project of the Year (Merit Recipient)**, Australian Information Industry Association, 2017. [\[Link\]](https://aiia.com.au/iawards/meet-our-winners-and-merit-recipients/)
+-   **New South Wales State Research & Development Project of the Year (Winner)**, Australian Information Industry Association, 2017.
+-   **New South Wales State Mobility Innovation of the Year (Winner)**, Australian Information Industry Association, 2017.
+-   **First Prize in Postgraduate Student Paper Competition**, IEEE Australia Council, 2016. [\[Link\]](http://ieee-ac.org/awards2016.html)
+-   **Best Ph.D. Forum Paper Award**, IEEE PerCom 2017. [\[Link\]](http://www.percom.org/Previous/ST2017/node/31.html)
+-   **IEEE TCCC Student Travel Award**, IEEE PerCom 2017.
+-   **Postgraduate Research Support Scheme Conference Travel Award**, UNSW, 2017.
+-   **Runner-up in IT Technical Innovation**, NASSCOM Australia, 2017. [\[Link\]](https://nasscom.org.au/)
+-   **Best Work-in-Progress Paper Award**, IEEE PerCom 2016. [\[Link\]](http://www.percom.org/Previous/ST2016/) -->
