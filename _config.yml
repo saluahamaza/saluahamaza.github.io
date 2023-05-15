@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Salua Hamaza"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, TUDelft"
+  bio              : "Assistant Professor, TU Delft"
   location         : "Delft, NL"
   email            : "S.Hamaza@tudelft.nl"
   employer         : # "https://www.tudelft.nl/staff/s.hamaza"
@@ -247,7 +247,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _fun
+  # _awards
   - scope:
       path: ""
       type: awards
