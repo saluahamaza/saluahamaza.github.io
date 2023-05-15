@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Salua's Home"
+title                    : "Salua Hamaza"
 title_separator          : "-"
-name                     : &name "Prof. Salua Hamaza"
-description              : &description "Assistant Professor at TUDelft"
+name                     : &name "Salua Hamaza"
+description              : &description "Assistant Professor Salua Hamaza TUDelft"
 url                      : https://saluahamaza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saluahamaza/saluahamaza.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Salua Hamaza"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at Delft University of Technology"
+  bio              : "Assistant Professor, TUDelft"
   location         : "Delft, NL"
   email            : "S.Hamaza@tudelft.nl"
   employer         : # "https://www.tudelft.nl/staff/s.hamaza"
