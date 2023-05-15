@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "BioMorphicLab"
-    url: /biomorphiclab/
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  # - title: "Talks"
-  #   url: /talks/    
             
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
+    
+  - title: "BioMorphicLab"
+    url: /biomorphiclab/
