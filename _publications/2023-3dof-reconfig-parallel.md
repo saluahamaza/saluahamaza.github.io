@@ -1,9 +1,9 @@
 ---
 title: "ADAPT: A 3 Degrees of Freedom Reconfigurable Force Balanced Parallel Manipulator for Aerial Applications"
 collection: publications
-permalink: /publication/2022-09-29-3dof-reconfig-parallel
+permalink: /publication/2023-3dof-reconfig-parallel
 excerpt: ''
-date: 2022-09-29
+date: 2023-06-01
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'https://repository.tudelft.nl/islandora/object/uuid%3A4e4e333d-643f-43b9-99cb-650d697f5baa'
 citation: 'SURYAVANSHI, K., Hamaza, S., van der Wijk, V., & Herder, J. L. (Accepted/In press). ADAPT: A 3 Degrees of Freedom Reconfigurable Force Balanced Parallel Manipulator for Aerial Applications. In IEEE International Conference on Robotics and Automation' 

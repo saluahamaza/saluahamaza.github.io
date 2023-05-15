@@ -1,10 +1,9 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-toc: true
 ---
 
-# AE3200 Design Synthesis
+## AE3200 Design Synthesis
 The Design Synthesis Exercise (DSE) students are required to make a design in the field of aircraft, spacecraft or wind turbines. In the design project the student is provided with an opportunity to obtain "design experience". This means that the student goes through the complete design process, from drawing up a set of detailed (mission) requirements, concept analysis and design, concept selection to the presentation of the final design, in a structured and iterative manner.
 
 He/she will experience the difficulty of making well-motivated design choices, thereby taking into account (sometimes conflicting) demands, etcetera. He/she will also experience that design iterations are necessary to tune non-optimal design decisions to meet the specifications drawn up at the start of the exercise. Some examples of aerospace vehicles designed in the past include:
