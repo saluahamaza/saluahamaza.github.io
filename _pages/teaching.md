@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+toc: true
 ---
 
 # AE3200 Design Synthesis
