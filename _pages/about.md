@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About Me"
 excerpt: "About me"
 author_profile: true
 toc: true
@@ -9,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+# About Me
 Salua Hamaza is Assistant Professor at the BioMorphic Intelligence Lab at the faculty of Aerospace Engineering, Department of Control and Operations, TU Delft. She is also with the MAVLab.
 
 Her research focus is mainly in two areas: aerial physical interaction and embodied intelligence for aerial robots. Her interests cover design, mechatronics, variable compliance and interaction control on floating robots (aerial & space).

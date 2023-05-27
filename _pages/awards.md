@@ -1,7 +1,7 @@
 ---
-title: "Awards"
+title: "Awards & Honors"
 permalink: /awards/
-toc: false
+toc: true
 ---
 
 ## BEST PAPER AWARD

@@ -1,11 +1,9 @@
 ---
-title: "Education"
+title: "Education & Courses"
 permalink: /teaching/
 author_profile: true
 toc: true
 ---
-
-# Courses
 
 -   Every Semester: **Design Synthesis Exercise** (DSE) for Bachelor Students.  The projects are always within the field of “Drones for Environmental Monitoring”.
 At the end of every bachelor student's career at the Faculty of Aerospace Engineering at TU Delft, they sit down together with 9 other prospective graduates and do a Design Synthesis Exercise. The results of their hard work are presented in reports of about 100 pages.

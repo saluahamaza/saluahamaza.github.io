@@ -1,11 +1,10 @@
 ---
-title: "BioMorphic Intelligence Lab"
 permalink: /biomorphiclab/
-author_profile: false
+author_profile: true
 toc: true
 ---
 
-{% include base_path %}
+# BioMorphic Intelligence Lab
 
 **Biologically inspired solutions for aerial robotics**
 
